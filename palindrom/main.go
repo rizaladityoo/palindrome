@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	kata := "susah"
+	kata := "madam"
 
 	fmt.Println(isPalindrom(kata))
 }
